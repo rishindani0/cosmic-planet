@@ -5,7 +5,7 @@ import * as THREE from 'three';
 import { motion, AnimatePresence } from 'framer-motion';
 import { SolarSystemScene } from './SolarSystemScene';
 import { PlanetPanel } from './PlanetPanel';
-import PlanetSelectorWidget from './PlanetSelectorWidget';
+import PlanetSelectorWidget from './planetSelectorWidget';
 import { SettingsWidget } from './SettingsWidget';
 import { AudioController } from './AudioController';
 import { CELESTIAL_BODIES } from './data/celestialBodies';
