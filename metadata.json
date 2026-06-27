@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Cosmo Grams",
+  "description": "An immersive interplanetary weight calculator displaying weight calculations, space gravity values, animated planet previews, and interactive fun facts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
